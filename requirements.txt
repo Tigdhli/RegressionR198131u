@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+scipy
+matplotlib
+statsmodel
+sklearn
+xgboost
+streamlit
+flask
+pickle
+request
